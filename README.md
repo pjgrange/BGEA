@@ -1,2 +1,2 @@
 # BGEA
-Brain Gene Expression Analysis
+Brain Gene Expression Analysis repository
